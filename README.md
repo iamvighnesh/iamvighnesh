@@ -3,25 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/vightorious" target="blank"><img src="https://img.shields.io/twitter/follow/vightorious?logo=twitter&style=for-the-badge" alt="vightorious" /></a> </p>
 
-- 🔭 I’m currently working on [Karpenter Provider for Azure](https://github.com/Azure/karpenter-provider-azure)
-
+- 🔭 I’m currently working as a Cloud Solutions Architect at @microsoft and started contributing to [Karpenter Provider for Azure](https://github.com/Azure/karpenter-provider-azure)
 - 🌱 I’m currently learning **Go Language, Kubernetes Internals and Cilium**
-
 - 👯 I’m looking to collaborate on **anything SIG Autoscaling for Kubernetes**
-
-- 👨‍💻 All of my projects are available at [https://github.com/iamvighnesh](https://github.com/iamvighnesh)
-
-- 📝 I regularly write articles on [https://medium.com/@iamvighnesh](https://medium.com/@iamvighnesh)
-
-- 💬 Ask me about **.net, cloud native architecture, building and deploying apps**
-
-- 📫 How to reach me **https://www.linkedin.com/in/iamvighnesh/**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/iamvighnesh/](https://www.linkedin.com/in/iamvighnesh/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
