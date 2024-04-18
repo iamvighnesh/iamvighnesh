@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vighneshwar Madas</h1>
-<h3 align="center">Software Engineer at ❤️. Cloud Solutions Architect by trade.</h3>
-
-<p align="left"> <a href="https://twitter.com/vightorious" target="blank"><img src="https://img.shields.io/twitter/follow/vightorious?logo=twitter&style=for-the-badge" alt="vightorious" /></a> </p>
+<h3>Software Engineer at ❤️. Cloud Solutions Architect by trade.</h3>
 
 - 🔭 I’m currently working as a Cloud Solutions Architect at @microsoft and started contributing to [Karpenter Provider for Azure](https://github.com/Azure/karpenter-provider-azure)
 - 🌱 I’m currently learning **Go Language, Kubernetes Internals and Cilium**
